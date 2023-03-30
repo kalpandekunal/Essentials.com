@@ -7,6 +7,9 @@ import BagsWallets from "../Pages/Bags&Wallets";
 import HomeOffice from "../Pages/HomeOffice";
 import Collections from "../Pages/Collections";
 import Account from "../Pages/Account";
+import Pangea from "../Pages/Pangea";
+import Watch from "../Pages/Watch";
+import WatchDetails from "../Pages/WatchDetails";
 
 function AllRoutes(){
 
@@ -20,6 +23,9 @@ function AllRoutes(){
             <Route path="/homeoffice" element={<HomeOffice />}/>
             <Route path="/collections" element={<Collections />}/>
             <Route path="/accounts" element={<Account />}/>
+            <Route path="/pangea" element={<Pangea />}/>
+            <Route path="/watch" element={<Watch />}/>
+            <Route path="/watch/:user_id" element={<WatchDetails />}/>
         </Routes>
     )
 }

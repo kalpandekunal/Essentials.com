@@ -1,0 +1,174 @@
+{
+    "products" : [
+        {
+            "id":1,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/blue-silicone-click-universal-watchband-20mm-images/Blue-Silicone-Click-Universal-WatchBand-1.png?tr=cm-pad_resize,v-2,w-640,h-519,dpr-1",
+            "text":"Orange Beat WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":2,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/blue-silicone-click-universal-watchband-20mm-images/Blue-Silicone-Click-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Blue Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":3,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/black-grey-annex-silicone-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Black-Grey-Annex-Silicone-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Blue Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":4,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/sea-green-silicone-buckle-universal-watchband-20mm-images/Green-Silicone-Buckle-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Sea Green Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":5,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/burgundy-silicone-buckle-universal-watchband-20mm-images/Burgandy-Silicone-Buckle-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Burgundy Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":6,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/brown-silicone-magnetic-poppy-universal-watchband-20mm-images/Brown-Silicone-Magnetic-Poppy-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Brown Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":7,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/orange-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Orange-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Orange Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":8,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/red-butterflies-leather-universal-watchband-22mm-images/Red-Butterflies-Leather-Universal-WatchBand-20MM-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Red Butterflies Leather Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":9,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/sand-pink-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-22mm-images/Sand-Pink-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Sand Pink Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":10,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/snowy-foliage-leather-universal-watchband-22mm-images/Snowy-Foliage-Leather-Universal-WatchBand-20MM-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Snowy Foliage Leather Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":11,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/brown-croco-leather-universal-watchband-22mm-images/Brown-Croco-Leather-Universal-WatchBand-20mm-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Broen Croco Leather Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":12,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/black-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Black-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Black Beat Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":13,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/black-nylon-universal-watchband-20mm-images/Black-Nylon-Universal-WatchBand-20mm-1.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Black Nylon Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":14,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/red-silicone-universal-watchband-20mm-images/Red-Silicone-Universal-WatchBand-20mm-1.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Red Silicone Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":15,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/gold-milanese-loop-universal-watchband-22mm-images/Gold-Milanese-Loop-Universal-WatchBand-20mm-1.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Gold Milanese Loop WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":16,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/teal-napa-leather-universal-watchband-22mm-images/Teal-Napa-Leather-Universal-WatchBand-20mm-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Teakl WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":17,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/orange-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Orange-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Orange Beat WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":18,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/blue-silicone-click-universal-watchband-20mm-images/Blue-Silicone-Click-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Blue Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":19,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/black-grey-annex-silicone-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Black-Grey-Annex-Silicone-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Blue Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":20,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/sea-green-silicone-buckle-universal-watchband-20mm-images/Green-Silicone-Buckle-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Sea Green Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":21,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/burgundy-silicone-buckle-universal-watchband-20mm-images/Burgandy-Silicone-Buckle-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Burgundy Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":22,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/brown-silicone-magnetic-poppy-universal-watchband-20mm-images/Brown-Silicone-Magnetic-Poppy-Universal-WatchBand-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Brown Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":23,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/orange-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Orange-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Orange Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":24,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/red-butterflies-leather-universal-watchband-22mm-images/Red-Butterflies-Leather-Universal-WatchBand-20MM-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Red Butterflies Leather Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":25,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/sand-pink-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-22mm-images/Sand-Pink-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Sand Pink Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        },
+        {
+            "id":26,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/snowy-foliage-leather-universal-watchband-22mm-images/Snowy-Foliage-Leather-Universal-WatchBand-20MM-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Snowy Foliage Leather Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":27,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/brown-croco-leather-universal-watchband-22mm-images/Brown-Croco-Leather-Universal-WatchBand-20mm-2.jpg?tr=cm-pad_crop,v-2,w-140,h-172,dpr-1",
+            "text":"Broen Croco Leather Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.399"
+        },
+        {
+            "id":28,
+            "image":"https://images.dailyobjects.com/marche/product-images/1801/black-beat-watchband-for-samsung-oneplus-fitbit-smartwatches-20mm-images/Black-Beat-WatchBand-for-20-2.png?tr=cm-pad_resize,v-2,w-140,h-172,dpr-1",
+            "text":"Black Beat Beat Silicone WatchBand for Samsung/OnePlus/Fitbit Smartwatches (20mm)",
+            "price":"Rs.699"
+        }
+        
+    ]
+    
+}

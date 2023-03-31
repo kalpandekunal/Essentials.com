@@ -41,14 +41,14 @@ function Watch(){
 
                 {
                     post.map((el)=> (
-                    <GridItem key={el.id} textAlign="center" pb={"40px"}>
+                    <GridItem key={el.id} textAlign="center" pb={"40px"} boxShadow={"rgba(0, 0, 0, 0.16) 0px 1px 4px"} borderRadius={"20px"}>
                         <Link to={`/watch/${el.id}`}>
-                            <Img maxW={"100%"} src={el.image} />
+                            <Img maxW={"100%"} src={el.image} ml={"75px"} mb={"20px"}/>
                         </Link>
-                        <Text>{el.id}</Text>
+                       
                         <Text>{el.text}</Text>
                         <Text pt={"30px"}fontWeight={"bold"}>{el.price}</Text>
-                        
+                        <Text color={"tomato"}>*FREE DUFFLE BAG</Text>
                     </GridItem>
                     ))
                 }

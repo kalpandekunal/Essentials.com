@@ -1,12 +1,12 @@
 import {Link, NavLink} from "react-router-dom";
-import { Box, Img,Avatar } from "@chakra-ui/react";
+import { Box, Img,Avatar,Text,Button } from "@chakra-ui/react";
 
 const links = [
     
-    {to:"/newarrivals",title:"New Arriva"},
+    {to:"/newarrivals",title:"New Arrival"},
     {to:"/casessleeves",title:"Cases & Sleeves"},
     {to:"/accessories",title:"Accessories"},
-    {to:"/Bags & Wallets",title:"Bags & Wallets"},
+    {to:"/BagsWallets",title:"Bags & Wallets"},
     {to:"/homeoffice",title:"Home Office"},
     {to:"/collections",title:"Collections"},
     
@@ -37,6 +37,9 @@ function Navbar(){
                 }} key={item.to} to={item.to}>{item.title}</NavLink>);
             })
         }
+        <Link to={"/cart"}>
+            <Button color={"teal"}>Cart</Button>
+        </Link>
         <Link to={"/accounts"}>
             <Avatar w="70%" bg='teal.500' />
         </Link>

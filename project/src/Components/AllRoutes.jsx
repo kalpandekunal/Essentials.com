@@ -10,6 +10,7 @@ import Account from "../Pages/Account";
 import Pangea from "../Pages/Pangea";
 import Watch from "../Pages/Watch";
 import WatchDetails from "../Pages/WatchDetails";
+import Cart from "../Pages/Cart";
 
 function AllRoutes(){
 
@@ -26,6 +27,7 @@ function AllRoutes(){
             <Route path="/pangea" element={<Pangea />}/>
             <Route path="/watch" element={<Watch />}/>
             <Route path="/watch/:user_id" element={<WatchDetails />}/>
+            <Route path="/cart" element={<Cart />}/>
         </Routes>
     )
 }

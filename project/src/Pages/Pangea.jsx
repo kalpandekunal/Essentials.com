@@ -176,8 +176,8 @@ function Pangea(){
         data.map((el)=> (
             <GridItem key={el.id} textAlign="center"  boxShadow={" rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px"} pb={"20px"}>
                 <Img maxW="100%"src={el.image} border="1px solid #E2E8F0"/>
-                <Text>{el.text}</Text>
-                <Text>{el.price}</Text>
+                <Text fontWeight={"bold"}>{el.text}</Text>
+                <Text fontWeight={"bold"}>{el.price}</Text>
             </GridItem>
              ))
          }

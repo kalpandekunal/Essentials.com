@@ -170,7 +170,7 @@ function Pangea(){
        
         <Box maxW="100%">
 
-            <Grid border="1px solid #E2E8F0" templateColumns="repeat(4,1fr)" gap={"20px"}>
+        <Grid border="1px solid #E2E8F0" templateColumns="repeat(4,1fr)" gap={"20px"}>
 
         {
         data.map((el)=> (
